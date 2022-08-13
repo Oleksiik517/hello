@@ -3,5 +3,6 @@ public class Tiget {
         System.out.println("Tiger");
         System.out.println("Hi");
         System.out.println("Good afternoon");
+        System.out.println("Hohoho");
     }
 }
